@@ -1,5 +1,5 @@
 This discord bot features discord interactions with features like greeting, meme generation, uptime information and command help.
-Created using python.|
+Created using python.
 Meme api: https://github.com/D3vd/Meme_Api
 
 
@@ -24,3 +24,5 @@ How to Use:
 
 Simply type $help to get started and explore the commands.
 And type the commands in discord to get the bot active.
+
+![image](https://github.com/RavenCunanan/DiscordMemeBot/assets/63638637/ef503a80-82c4-489b-b423-e4077e20a2e8)
