@@ -6,7 +6,7 @@ Meme api: https://github.com/D3vd/Meme_Api
 
 Key Features:
 
-	Greeting and Status:
+Greeting and Status:
 
 Welcomes users when the bot comes online.
 Displays the bot's uptime upon request.
