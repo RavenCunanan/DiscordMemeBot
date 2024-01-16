@@ -10,10 +10,12 @@ Greeting and Status:
 
 Welcomes users when the bot comes online.
 Displays the bot's uptime upon request.
-	Meme Generator:
+
+Meme Generator:
 
 Fetches memes from an external API with a simple command.
-	Command Help:
+	
+Command Help:
 
 Provides users with a helpful list of available commands.
 
